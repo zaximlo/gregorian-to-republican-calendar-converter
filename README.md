@@ -22,4 +22,4 @@ When it asks you d, type the desired gregorian day
 
 WARNING: The gregorian date that you type must be after the 22nd september 1792
 
-The programme will then display the republican/revolutionary date that corresponds to the one you have typed.
+The programme will then display the republican/revolutionary date that corresponds to the gregorian date that you have typed
